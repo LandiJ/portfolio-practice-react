@@ -22,7 +22,7 @@ class Home extends Component {
         <h2 style={textStyle}>The Queen Bey</h2>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOWH7uDjiF1zXfIvFq4qwleeLSczjW0T5KORJZkR1ZnGJAAbk" />
         <br />
-        <Link to="about" style={textStyle}>LEARN MORE</Link>
+        <Link to="/about" style={textStyle}>LEARN MORE</Link>
       </div>
     );
   }

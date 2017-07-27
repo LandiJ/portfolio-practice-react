@@ -34,7 +34,7 @@ class About extends Component {
         <p style={textStyle}>
           Beyonce is arguably the most talented artist in the world. She has won numerous awards and is revered as the greatest performer of all time. Dont believe me? Click
           {" "}
-          <Link style={listItem} to="portfolio">Here</Link>
+          <Link style={listItem} to="/portfolio">Here</Link>
           {" "}
           to see her in action.
         </p>
